@@ -26,11 +26,22 @@ Reason: Follwoing assignment requirements for the issue
 Related GitHub URL: n/a
 
 ## AI interaction 2
-Date:
-Assistant:
-Purpose:
-Prompt or summary:
+Date: 9/28/2026
+Assistant: Copilot
+Purpose: Revised and review my README.md
+Prompt or summary: Can u review my README file for claroty and suggest revisions
 Useful suggestion:
-Decision: accepted / revised / rejected
-Reason:
-Related GitHub URL:
+Reformatted and worded differently README.md
+# GitHub Workflow
+ 
+This repository documents my GitHub Lab activities for SWE 325. It is used to demonstrate GitHub workflow practices and document the use of AI assistance throughout the course.
+ 
+The purpose of this repository is to showcase key GitHub features and development workflows, including the use of branches, pull requests, issues, and meaningful commits. This repository serves as a record of my progress and understanding of version control and collaborative development practices.
+ 
+**Student:** Madelyn Moore
+Show more lines
+
+Decision: accepted 
+Reason: I liked the depth of the answers and the format it provided me
+Related GitHub URL: https://github.com/madelyn-moore/Lab8-GitHubissues/blob/feature/github-ai-workflow/ReadME.md
+
