@@ -1,1 +1,36 @@
 
+## AI interaction 1
+Date:9/28/2026
+Assistant: Copilot
+Purpose: Explain differences between Github objects
+Prompt or summary: Explain the difference between a repository, branch, commit, pull request, and issue
+Useful suggestion: 
+Issue
+An issue is a tracked task, bug, enhancement, or question.
+Examples:
+"Login button doesn't work"
+"Add dark mode"
+"Update documentation"
+Issues help teams organize work.
+Typical fields:
+Title
+Description
+Assignee
+Labels
+Priority
+Status
+
+Analogy: An issue is like a ticket on a project to-do board.
+Decision: rejected
+Reason: Follwoing assignment requirements for the issue
+Related GitHub URL: n/a
+
+## AI interaction 2
+Date:
+Assistant:
+Purpose:
+Prompt or summary:
+Useful suggestion:
+Decision: accepted / revised / rejected
+Reason:
+Related GitHub URL:
