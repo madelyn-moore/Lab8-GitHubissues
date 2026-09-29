@@ -1,0 +1,59 @@
+
+## AI interaction 1
+Date:9/28/2026
+Assistant: Copilot
+Purpose: Explain differences between Github objects
+Prompt or summary: Explain the difference between a repository, branch, commit, pull request, and issue
+Useful suggestion: 
+Issue
+An issue is a tracked task, bug, enhancement, or question.
+Examples:
+"Login button doesn't work"
+"Add dark mode"
+"Update documentation"
+Issues help teams organize work.
+Typical fields:
+Title
+Description
+Assignee
+Labels
+Priority
+Status
+
+Analogy: An issue is like a ticket on a project to-do board.
+Decision: rejected
+Reason: Follwoing assignment requirements for the issue
+Related GitHub URL: n/a
+
+## AI interaction 2
+Date: 9/28/2026
+Assistant: Copilot
+Purpose: Revised and review my README.md
+Prompt or summary: Can u review my README file for claroty and suggest revisions
+Useful suggestion:
+Reformatted and worded differently README.md
+# GitHub Workflow
+ 
+This repository documents my GitHub Lab activities for SWE 325. It is used to demonstrate GitHub workflow practices and document the use of AI assistance throughout the course.
+ 
+The purpose of this repository is to showcase key GitHub features and development workflows, including the use of branches, pull requests, issues, and meaningful commits. This repository serves as a record of my progress and understanding of version control and collaborative development practices.
+ 
+**Student:** Madelyn Moore
+Show more lines
+
+Decision: accepted 
+Reason: I liked the depth of the answers and the format it provided me
+Related GitHub URL: https://github.com/madelyn-moore/Lab8-GitHubissues/blob/feature/github-ai-workflow/ReadME.md
+
+## AI interaction 3
+Date:9/28/2026
+Assistant: Copilot
+Purpose: Improve my issue #1
+Prompt or summary: Can you improve my issues on my reop: pasted issue description her
+Useful suggestion:
+The tasks and the notes section were better improved and more indepth
+Decision: revised 
+Reason: I liked the new task list it separated previous taska and expanded others, I also liked the notes section it made it sound nicer than what i originally had.
+Related GitHub URL: https://github.com/madelyn-moore/Lab8-GitHubissues/issues/1
+
+
